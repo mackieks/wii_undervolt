@@ -1,2 +1,1 @@
-# wii_undervolt
-regulator board for wii undervolting testing
+Regulator board for wii undervolting testing
