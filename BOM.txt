@@ -1,0 +1,59 @@
+Partlist
+
+Exported from reg_board.sch at 1/16/2024 12:08 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device       Package       Library        Sheet
+
+C1       875575344001   875575344001 CAPAE660X610N SamacSys_Parts 1
+C2       22uF           C-USC0603    C0603         resistor       1
+C3       22uF           C-USC0603    C0603         resistor       1
+C4       22uF           C-USC0603    C0603         resistor       1
+C5       22uF           C-USC0603    C0603         resistor       1
+C6       22uF           C-USC0603    C0603         resistor       1
+C7       22uF           C-USC0603    C0603         resistor       1
+C8       22uF           C-USC0603    C0603         resistor       1
+C9       22uF           C-USC0603    C0603         resistor       1
+C10      22uF           C-USC0603    C0603         resistor       1
+C11      22uF           C-USC0603    C0603         resistor       1
+C12      22uF           C-USC0603    C0603         resistor       1
+C13      22uF           C-USC0603    C0603         resistor       1
+PAD1                    SMD5         SMD2,54-5,08  wirepad        1
+PAD2                    SMD5         SMD2,54-5,08  wirepad        1
+PAD3                    SMD5         SMD2,54-5,08  wirepad        1
+PAD4                    SMD5         SMD2,54-5,08  wirepad        1
+PAD5                    SMD5         SMD2,54-5,08  wirepad        1
+R1       82k            R-US_R0402   R0402         resistor       1
+R2       120k           R-US_R0402   R0402         resistor       1
+R3       82k            R-US_R0402   R0402         resistor       1
+R4       82k            R-US_R0402   R0402         resistor       1
+R5       169k           R-US_R0402   R0402         resistor       1
+R6       82k            R-US_R0402   R0402         resistor       1
+R7       169k           R-US_R0402   R0402         resistor       1
+R8       37.4k          R-US_R0402   R0402         resistor       1
+RS1      LVK12R100CER   LVK12R100CER LVK12R100CER  SamacSys_Parts 1
+RS2      LVK12R100CER   LVK12R100CER LVK12R100CER  SamacSys_Parts 1
+RS3      LVK12R100CER   LVK12R100CER LVK12R100CER  SamacSys_Parts 1
+RS4      LVK12R100CER   LVK12R100CER LVK12R100CER  SamacSys_Parts 1
+RS5      LVK12R100CER   LVK12R100CER LVK12R100CER  SamacSys_Parts 1
+TP1      TPTP08R        TPTP08R      TP08R         testpad        1
+TP2      TPTP08R        TPTP08R      TP08R         testpad        1
+TP3      TPTP08R        TPTP08R      TP08R         testpad        1
+TP4      TPTP08R        TPTP08R      TP08R         testpad        1
+TP5      TPTP08R        TPTP08R      TP08R         testpad        1
+TP6      TPTP08R        TPTP08R      TP08R         testpad        1
+TP7      TPTP08R        TPTP08R      TP08R         testpad        1
+TP8      TPTP08R        TPTP08R      TP08R         testpad        1
+TP9      TPTP08R        TPTP08R      TP08R         testpad        1
+TP10     TPTP08R        TPTP08R      TP08R         testpad        1
+U1       MUN3CAD03-SE   MUN3CAD03-SE MUN3CAD03SE   SamacSys_Parts 1
+U2       MUN3CAD03-SE   MUN3CAD03-SE MUN3CAD03SE   SamacSys_Parts 1
+U3       MUN3CAD03-SE   MUN3CAD03-SE MUN3CAD03SE   SamacSys_Parts 1
+U4       MUN3CAD03-SE   MUN3CAD03-SE MUN3CAD03SE   SamacSys_Parts 1
+VR1      TC42X-2-104E   TC42X-2-104E TC42X2103E    SamacSys_Parts 1
+VR2      TC42X-2-104E   TC42X-2-104E TC42X2103E    SamacSys_Parts 1
+VR3      TC42X-2-104E   TC42X-2-104E TC42X2103E    SamacSys_Parts 1
+VR4      TC42X-2-502E   TC42X-2-104E TC42X2103E    SamacSys_Parts 1
