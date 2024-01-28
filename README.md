@@ -14,6 +14,7 @@ Adjustable regulator board for Wii undervolting testing. Solderpad Hardware Lice
 Vin and each regulator output have dedicated 100-milliohm 4-terminal sense resistors. When powering a load from the reg board, you can measure across the resistors by poking your multimeter probes into the plated test pads. Multiply the voltage by 10 to get the load current in amps.
 
 <img src="https://github.com/mackieks/wii_undervolt/blob/main/images/zoom.jpg" width=400> <img src="https://github.com/mackieks/wii_undervolt/blob/main/images/tool.jpg" width=600>
+
 Each regulator has a trimpot for adjusting the voltage. Turn it clockwise to increase Vout, and counterclockwise to decrease Vout. You can turn the pots with tweezers or a tiny, blunt Phillips screwdriver.
 
 **Note:** the trimpots are fragile mechanical devices. If you turn them too far in one direction, they'll 'wrap around' to the other side. When overturned like this, there's a small region that won't produce a reasonable resistance, causing Vout to collapse. Just keep turning and Vout will jump back to the intended range.
