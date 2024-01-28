@@ -1,4 +1,4 @@
-Adjustable regulator board for Wii undervolting testing. Solderpad Hardware License v2.1 
+Adjustable regulator board for Wii undervolting testing and current measurement. Solderpad Hardware License v2.1 
  
 <img src="https://github.com/mackieks/wii_undervolt/blob/main/images/board.jpg" width=1200>
 
